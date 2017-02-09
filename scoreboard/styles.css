@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
+
 body{
 	margin: 0;
 	padding: 0;
@@ -7,4 +9,9 @@ body{
 	height: 1080px;
 	width: 1920px;
 	background: transparent url('bg.jpg') top left no-repeat;
+}
+
+.team{
+	color: white;
+	font-family: 'Lato', sans-serif;
 }

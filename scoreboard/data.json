@@ -1,10 +1,116 @@
 {
 	"scores":[
 		{
-			"team": "Bergens Bison",
-			"image": "bergen.png",
+			"team": "Allens Avengers",
 			"score": "12"
 		},
+		{
+			"team": "Bayes Bulldogs",
+			"score": "12"
+		},		
+		{
+			"team": "Bergens Bison",
+			"score": "12"
+		},
+		{
+			"team": "Bergs Barracudas",
+			"score": "12"
+		},
+		{
+			"team": "Braunds Beast",
+			"score": "12"
+		},
+		{
+			"team": "Conways Carnivores",
+			"score": "12"
+		},
+		{
+			"team": "Crouters Cannibals",
+			"score": "12"
+		},
+		{
+			"team": "Dekkers Dragons",
+			"score": "12"
+		},		
+		{
+			"team": "Ehrlicks Enforcers",
+			"score": "12"
+		},
+		{
+			"team": "Friesens Fugitives",
+			"score": "12"
+		},
+		{
+			"team": "Granges Gladiators",
+			"score": "12"
+		},
+		{
+			"team": "Huethers Hitmen",
+			"score": "12"
+		},
+		{
+			"team": "Jolys Jaguars",
+			"score": "12"
+		},
+		{
+			"team": "Kotsopoulos Cobras",
+			"score": "12"
+		},		
+		{
+			"team": "Laubers Longhorns",
+			"score": "12"
+		},
+		{
+			"team": "Legomskis Lumberjacks",
+			"score": "12"
+		},
+		{
+			"team": "MacKinnons Mammoths",
+			"score": "12"
+		},
+		{
+			"team": "McColgans Marauders",
+			"score": "12"
+		},
+		{
+			"team": "McEacherns Mustangs",
+			"score": "12"
+		},
+		{
+			"team": "Owens Owls",
+			"score": "12"
+		},
+		{
+			"team": "Philips Phoenix",
+			"score": ""
+		},
+		{
+			"team": "Rangers Rampage",
+			"score": ""
+		},
+		{
+			"team": "Reynolds Rhinos",
+			"score": ""
+		},
+		{
+			"team": "Salewskis Swarm",
+			"score": ""
+		},
+		{
+			"team": "Selfridges Scorpions",
+			"score": ""
+		},
+		{
+			"team": "Smiths Samurai",
+			"score": ""
+		},
+		{
+			"team": "Toerings Tigers",
+			"score": ""
+		},
+		{
+			"team": "Van De Wals Vipers",
+			"score": ""
+		},							
 	]
-
 }
