@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+#scoreboard{
+	height: 1080px;
+	width: 1920px;
+	background: transparent url('bg.jpg') top left no-repeat;
+}
