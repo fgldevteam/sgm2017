@@ -11,7 +11,52 @@ body{
 	background: transparent url('bg.jpg') top left no-repeat;
 }
 
+.teamAndScore{ clear: both; padding: 9px 0px; }
+
 .team{
 	color: white;
+	font-size: 30px;
+	letter-spacing: 8px;
 	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	float: left;
+}
+
+.score{
+	color: white;
+	font-size: 30px;
+	letter-spacing: 8px;
+	font-family: 'Lato', sans-serif;
+	float: right;
+	padding: 5px;
+}
+
+.score-panel{
+	width: 40px;
+	padding: 3px 3px 3px 8px;
+	margin: 0px 0px 0px 5px;
+	border-top: 3px solid #414241;
+	border-right: 3px solid #414241;
+	border-bottom: 2px solid #414241;
+	border-left: 2px solid #414241;
+}
+
+#scores_col1{
+	float: left;
+	position: relative;
+	top: 75px;
+	left: 60px;
+	width: 830px;
+	height: 775px;
+	padding: 115px 20px 20px 20px;
+}
+
+#scores_col2{
+	float: left;
+	position: relative;
+	top: 75px;
+	left: 80px;
+	width: 860px;
+	height: 775px;
+	padding: 115px 20px 20px 20px;
 }
