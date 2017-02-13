@@ -1,115 +1,115 @@
 var data = [
 		{
 			"team": "Allens Avengers",
-			"score": "85"
+			"score": "0"
 		},
 		{
 			"team": "Bayes Bulldogs",
-			"score": "12"
+			"score": "0"
 		},		
 		{
 			"team": "Bergens Bison",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Bergs Barracudas",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Braunds Beast",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Conways Carnivores",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Crouters Cannibals",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Dekkers Dragons",
-			"score": "12"
+			"score": "0"
 		},		
 		{
 			"team": "Ehrlicks Enforcers",
-			"score": "12362"
+			"score": "0"
 		},
 		{
 			"team": "Friesens Fugitives",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Granges Gladiators",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Huethers Hitmen",
-			"score": "70"
+			"score": "0"
 		},
 		{
 			"team": "Jolys Jaguars",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Kotsopoulos Cobras",
-			"score": "12"
+			"score": "0"
 		},		
 		{
 			"team": "Laubers Longhorns",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Legomskis Lumberjacks",
-			"score": "12345"
+			"score": "0"
 		},
 		{
 			"team": "MacKinnons Mammoths",
-			"score": "12345"
+			"score": "0"
 		},
 		{
 			"team": "McColgans Marauders",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "McEacherns Mustangs",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Owens Owls",
-			"score": "12"
+			"score": "0"
 		},
 		{
 			"team": "Philips Phoenix",
-			"score": ""
+			"score": "0"
 		},
 		{
 			"team": "Rangers Rampage",
-			"score": "10"
+			"score": "0"
 		},
 		{
 			"team": "Reynolds Rhinos",
-			"score": "17"
+			"score": "0"
 		},
 		{
 			"team": "Salewskis Swarm",
-			"score": ""
+			"score": "0"
 		},
 		{
 			"team": "Selfridges Scorpions",
-			"score": ""
+			"score": "0"
 		},
 		{
 			"team": "Smiths Samurai",
-			"score": ""
+			"score": "0"
 		},
 		{
 			"team": "Toerings Tigers",
-			"score": ""
+			"score": "0"
 		},
 		{
 			"team": "Van De Wals Vipers",
-			"score": ""
+			"score": "0"
 		},							
 ];
 
@@ -150,7 +150,7 @@ function showResults () {
 		var score_parts = String(score).split("");
 
 		if(score_parts.length < 2){
-			assembled_score = "<span class='score-panel'>&nbsp;&nbsp;</span>";
+			assembled_score += "<span class='score-panel'>&nbsp;&nbsp;</span>";
 		}
 
 		score_parts.forEach(function(part){
