@@ -63,10 +63,7 @@ var data = [
 			"team": "Legomskis Lumberjacks",
 			"score": "0"
 		},
-		{
-			"team": "MacKinnons Mammoths",
-			"score": "0"
-		},
+
 		{
 			"team": "McColgans Marauders",
 			"score": "0"
@@ -99,10 +96,7 @@ var data = [
 			"team": "Selfridges Scorpions",
 			"score": "0"
 		},
-		{
-			"team": "Smiths Samurai",
-			"score": "0"
-		},
+
 		{
 			"team": "Toerings Tigers",
 			"score": "0"
